@@ -7,3 +7,7 @@ Golang could be compile to wasm.
 ```powershell
 $Env:GOOS = "js"; $Env:GOARCH = "wasm"
 ```
+
+## Reference
+
+- [go wasmer](https://github.com/golang/go/wiki/WebAssembly#getting-started)
